@@ -5,4 +5,4 @@ auto completion and page rank scoring were added. All the additional features ha
 using custom dictionaries built specifically for the downloaded data set to improve the precision and 
 recall of the seach results.</p>
 
-<a href="https://www.youtube.com/watch?v=WCQ8ZpdiUWU&feature=youtu.be">sample link</a>
+<a href="https://www.youtube.com/watch?v=WCQ8ZpdiUWU&feature=youtu.be">sample video link</a>
